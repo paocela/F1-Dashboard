@@ -5,7 +5,7 @@ frontend:
         deploy:
             - npm install --legacy-peer-deps
             - npm run build
-    subdomain: RaceForFederica
-name: RaceForFederica
+    subdomain: f1-raceforfederica
+name: f1-raceforfederica
 region: eu-central-1
 yamlVersion: 2
